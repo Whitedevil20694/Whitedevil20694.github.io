@@ -4,19 +4,19 @@ A glassmorphism portfolio for Bhavesh Modak, an AI and Data Science undergraduat
 
 ## Contents
 
-- `portfolio_glass.html` - Main portfolio page
+- `index.html` - Main portfolio page
 - `data.js` - Portfolio content, projects, skills, education, and contact details
 - `images/` - Project and portfolio imagery
 
 ## Run locally
 
-Open `portfolio_glass.html` directly in a browser, or serve the folder with any static web server:
+Open `index.html` directly in a browser, or serve the folder with any static web server:
 
 ```bash
 python3 -m http.server
 ```
 
-Then visit `http://localhost:8000/portfolio_glass.html`.
+Then visit `http://localhost:8000/`.
 
 ## Customize
 
